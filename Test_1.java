@@ -7,6 +7,7 @@ public class Test_1 {
 	System.out.println("How are you");
 	System.out.println("Nice to see you");
 	System.out.println("Get well soon");
+	system.out.ptintln("new test line");
 	}
 
 }
